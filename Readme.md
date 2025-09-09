@@ -36,12 +36,6 @@ Sau khi triển khai dashboard, nhóm quản lý cà phê đạt được nhữn
 - Các chi nhánh khác như **Lower Manhattan** và **Astoria** đều tăng trưởng trên **+29%**.  
 
 ---
-
-##  Hình ảnh Dashboard
-
-
----
-
 ##  Công cụ sử dụng
 - **Power BI Desktop**
 - **DAX** để tính toán KPI & tăng trưởng MoM
